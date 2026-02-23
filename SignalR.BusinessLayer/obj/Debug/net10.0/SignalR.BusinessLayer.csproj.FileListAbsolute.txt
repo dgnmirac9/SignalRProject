@@ -1,0 +1,17 @@
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.BusinessLayer.deps.json
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.BusinessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.BusinessLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.EntityLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/bin/Debug/net10.0/SignalR.EntityLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.csproj.AssemblyReference.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.AssemblyInfoInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.AssemblyInfo.cs
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR..CCF1CBCC.Up2Date
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/refint/SignalR.BusinessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/SignalR.BusinessLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.BusinessLayer/obj/Debug/net10.0/ref/SignalR.BusinessLayer.dll

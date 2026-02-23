@@ -1,0 +1,17 @@
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.deps.json
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.runtimeconfig.json
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.DataAccessLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.EntityLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/bin/Debug/net10.0/SignalR.EntityLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.AssemblyInfo.cs
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR..B907141E.Up2Date
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/refint/SignalR.DataAccessLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/SignalR.DataAccessLayer.genruntimeconfig.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.DataAccessLayer/obj/Debug/net10.0/ref/SignalR.DataAccessLayer.dll

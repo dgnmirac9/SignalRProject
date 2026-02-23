@@ -1,0 +1,11 @@
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/bin/Debug/net10.0/SignalR.EntityLayer.deps.json
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/bin/Debug/net10.0/SignalR.EntityLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/bin/Debug/net10.0/SignalR.EntityLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.AssemblyInfoInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.AssemblyInfo.cs
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.csproj.CoreCompileInputs.cache
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/refint/SignalR.EntityLayer.dll
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/SignalR.EntityLayer.pdb
+/Users/dogan/projects/csharp/SignalRProject/SignalR.EntityLayer/obj/Debug/net10.0/ref/SignalR.EntityLayer.dll
